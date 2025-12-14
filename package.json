@@ -1,0 +1,20 @@
+{
+  "name": "lingpfeng",
+  "version": "1.0.0",
+  "description": "my typeScript learning ",
+  "homepage": "https://github.com/plfccc/typeScript#readme",
+  "bugs": {
+    "url": "https://github.com/plfccc/typeScript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plfccc/typeScript.git"
+  },
+  "license": "ISC",
+  "author": "lingpfeng",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
